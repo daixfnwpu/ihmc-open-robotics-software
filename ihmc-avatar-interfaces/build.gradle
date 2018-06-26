@@ -45,7 +45,8 @@ mainDependencies {
    compile group: 'org.ros.rosjava_messages', name: 'trajectory_msgs', version: '1.11.7'
    compile group: 'com.github.wendykierp', name: 'JTransforms', version: '3.1'
    compile group: 'org.reflections', name: 'reflections', version: '0.9.10'
-   compile group: 'us.ihmc', name: 'robot-environment-awareness', version: "source"
+   compile group: "us.ihmc", name: "robot-environment-awareness", version: "source"
+   compile group: "us.ihmc", name: "robot-environment-awareness-visualizers", version: "source"
    compile group: "us.ihmc", name: "ihmc-commons", version: "0.20.1"
    compile group: "us.ihmc", name: "ihmc-ros-tools", version: "source"
    compile group: "us.ihmc", name: "ihmc-common-walking-control-modules", version: "source"
